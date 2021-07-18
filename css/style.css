@@ -715,10 +715,10 @@ header.mobile-header-1.light {
   background: #25252e;
 }
 header.mobile-header-1.light .menu-icon span {
-  background: #353353;
+  background: #ffffff;
 }
 header.mobile-header-1.light .menu-icon span:before, header.mobile-header-1.light .menu-icon span:after {
-  background: #353353;
+  background: #ffffff;
 }
 
 header.mobile-header-2 {
